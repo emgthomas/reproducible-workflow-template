@@ -1,0 +1,12 @@
+data/*
+logs/*
+**/*.csv
+**/*.xlsx
+**/*.Rdata
+**/*.fst
+**/*.dta
+**/*.sas7bdat
+**/*.Rprofile
+**/*.Rproj
+**/*.DS_store
+!**/README.md
