@@ -3,7 +3,7 @@ Emma Thomas & Matt Cefalu
 
 # Setup
 
-This file provides basic directions on how to start a git repository for a new project using this template as a starting point and push it to Gitlab (code.rand.org). Feel free to delete it after setup is complete.
+This file provides basic directions on how to start a git repository for a new research project using this template as a starting point and push it to GitHub. Feel free to delete it after setup is complete.
 
 First, create an empty repository (repo) on GitHub or other remote host. 
 To do this on GitHub, go to github.com, login to your account, and click the 'New' icon (top left in green). Enter a short, descriptive name for your repository, choose public or private, and hit 'Create repository'.
@@ -52,13 +52,13 @@ Next, commit changes using:
 
     git commit -m "<ADD INFORMATIVE MESSAGE ABOUT THE CHANGES YOU MADE>"
 
-Finally, you should push your changes to Gitlab:
+Finally, you should push your changes to GitHub:
 
     git push origin master
 
 ## Pulling changes
 
-At the start of any work session, before making any new changes, it is advisable to first check if others have updated the repository by pulling changes from Gitlab:
+At the start of any work session, before making any new changes, it is advisable to first check if others have updated the repository by pulling changes from GitHub:
 
     git pull origin master
     
@@ -72,4 +72,4 @@ or
 
     Your branch is ahead of ‘origin/master’ by x commits
 
-Don't worry; this just means that you need to resolve some conflicts between what is on Gitlab and changes you have made locally. Contact Emma or Matt for help.
+Don't worry; this just means that you need to resolve some conflicts between what is on GitHub and changes you have made locally.
